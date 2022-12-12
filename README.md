@@ -1,2 +1,2 @@
-# JJVMM Repo
+# JJVMM Repository Index
 
